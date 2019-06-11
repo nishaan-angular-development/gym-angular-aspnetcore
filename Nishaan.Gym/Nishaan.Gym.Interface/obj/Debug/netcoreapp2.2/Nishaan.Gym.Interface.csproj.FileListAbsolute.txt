@@ -1,0 +1,14 @@
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\obj\Debug\netcoreapp2.2\Nishaan.Gym.Interface.csprojAssemblyReference.cache
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\obj\Debug\netcoreapp2.2\Nishaan.Gym.Interface.csproj.CoreCompileInputs.cache
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\obj\Debug\netcoreapp2.2\Nishaan.Gym.Interface.AssemblyInfoInputs.cache
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\obj\Debug\netcoreapp2.2\Nishaan.Gym.Interface.AssemblyInfo.cs
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\bin\Debug\netcoreapp2.2\Nishaan.Gym.Interface.deps.json
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\bin\Debug\netcoreapp2.2\Nishaan.Gym.Interface.dll
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\bin\Debug\netcoreapp2.2\Nishaan.Gym.Interface.pdb
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\bin\Debug\netcoreapp2.2\Nishaan.Gym.Model.dll
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\bin\Debug\netcoreapp2.2\Nishaan.Gym.ViewModel.dll
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\bin\Debug\netcoreapp2.2\Nishaan.Gym.Model.pdb
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\bin\Debug\netcoreapp2.2\Nishaan.Gym.ViewModel.pdb
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\obj\Debug\netcoreapp2.2\Nishaan.Gym.Interface.csproj.CopyComplete
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\obj\Debug\netcoreapp2.2\Nishaan.Gym.Interface.dll
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Interface\obj\Debug\netcoreapp2.2\Nishaan.Gym.Interface.pdb

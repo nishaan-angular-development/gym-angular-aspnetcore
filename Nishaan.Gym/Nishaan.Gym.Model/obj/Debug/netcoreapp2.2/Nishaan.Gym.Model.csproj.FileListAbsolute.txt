@@ -1,0 +1,8 @@
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Model\bin\Debug\netcoreapp2.2\Nishaan.Gym.Model.deps.json
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Model\bin\Debug\netcoreapp2.2\Nishaan.Gym.Model.dll
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Model\bin\Debug\netcoreapp2.2\Nishaan.Gym.Model.pdb
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Model\obj\Debug\netcoreapp2.2\Nishaan.Gym.Model.csproj.CoreCompileInputs.cache
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Model\obj\Debug\netcoreapp2.2\Nishaan.Gym.Model.AssemblyInfoInputs.cache
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Model\obj\Debug\netcoreapp2.2\Nishaan.Gym.Model.AssemblyInfo.cs
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Model\obj\Debug\netcoreapp2.2\Nishaan.Gym.Model.dll
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Model\obj\Debug\netcoreapp2.2\Nishaan.Gym.Model.pdb

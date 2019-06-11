@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# db.lock build output
+.lock
+
+# .vs build output
+.vs

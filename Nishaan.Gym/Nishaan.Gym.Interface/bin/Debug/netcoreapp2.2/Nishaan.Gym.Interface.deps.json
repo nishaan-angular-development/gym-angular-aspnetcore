@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Nishaan.Gym.Interface/1.0.0": {
+        "dependencies": {
+          "Nishaan.Gym.Model": "1.0.0",
+          "Nishaan.Gym.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "Nishaan.Gym.Interface.dll": {}
+        }
+      },
+      "Nishaan.Gym.Model/1.0.0": {
+        "runtime": {
+          "Nishaan.Gym.Model.dll": {}
+        }
+      },
+      "Nishaan.Gym.ViewModel/1.0.0": {
+        "runtime": {
+          "Nishaan.Gym.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nishaan.Gym.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nishaan.Gym.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nishaan.Gym.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

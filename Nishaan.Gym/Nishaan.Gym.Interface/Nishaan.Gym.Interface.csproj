@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Nishaan.Gym.Model\Nishaan.Gym.Model.csproj" />
+    <ProjectReference Include="..\Nishaan.Gym.ViewModel\Nishaan.Gym.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

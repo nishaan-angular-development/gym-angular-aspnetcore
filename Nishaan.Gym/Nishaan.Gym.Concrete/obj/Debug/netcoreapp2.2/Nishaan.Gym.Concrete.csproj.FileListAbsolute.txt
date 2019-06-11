@@ -1,0 +1,16 @@
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\bin\Debug\netcoreapp2.2\Nishaan.Gym.Interface.dll
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\bin\Debug\netcoreapp2.2\Nishaan.Gym.ViewModel.dll
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\obj\Debug\netcoreapp2.2\Nishaan.Gym.Concrete.csproj.CoreCompileInputs.cache
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\obj\Debug\netcoreapp2.2\Nishaan.Gym.Concrete.AssemblyInfoInputs.cache
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\obj\Debug\netcoreapp2.2\Nishaan.Gym.Concrete.AssemblyInfo.cs
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\obj\Debug\netcoreapp2.2\Nishaan.Gym.Concrete.csprojAssemblyReference.cache
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\bin\Debug\netcoreapp2.2\Nishaan.Gym.Concrete.deps.json
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\bin\Debug\netcoreapp2.2\Nishaan.Gym.Concrete.dll
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\bin\Debug\netcoreapp2.2\Nishaan.Gym.Model.dll
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\bin\Debug\netcoreapp2.2\Nishaan.Gym.Interface.pdb
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\bin\Debug\netcoreapp2.2\Nishaan.Gym.Model.pdb
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\bin\Debug\netcoreapp2.2\Nishaan.Gym.ViewModel.pdb
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\obj\Debug\netcoreapp2.2\Nishaan.Gym.Concrete.csproj.CopyComplete
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\bin\Debug\netcoreapp2.2\Nishaan.Gym.Concrete.pdb
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\obj\Debug\netcoreapp2.2\Nishaan.Gym.Concrete.dll
+C:\Users\gurpreet.deol\source\repos\ng-source\gym-angular-aspnetcore\Nishaan.Gym\Nishaan.Gym.Concrete\obj\Debug\netcoreapp2.2\Nishaan.Gym.Concrete.pdb

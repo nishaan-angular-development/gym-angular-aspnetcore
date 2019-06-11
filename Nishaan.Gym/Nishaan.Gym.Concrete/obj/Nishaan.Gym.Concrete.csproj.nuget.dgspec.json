@@ -1,0 +1,247 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Concrete\\Nishaan.Gym.Concrete.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Concrete\\Nishaan.Gym.Concrete.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Concrete\\Nishaan.Gym.Concrete.csproj",
+        "projectName": "Nishaan.Gym.Concrete",
+        "projectPath": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Concrete\\Nishaan.Gym.Concrete.csproj",
+        "packagesPath": "C:\\Users\\gurpreet.deol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Concrete\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gurpreet.deol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Interface\\Nishaan.Gym.Interface.csproj": {
+                "projectPath": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Interface\\Nishaan.Gym.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.0.16, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Interface\\Nishaan.Gym.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Interface\\Nishaan.Gym.Interface.csproj",
+        "projectName": "Nishaan.Gym.Interface",
+        "projectPath": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Interface\\Nishaan.Gym.Interface.csproj",
+        "packagesPath": "C:\\Users\\gurpreet.deol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gurpreet.deol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Model\\Nishaan.Gym.Model.csproj": {
+                "projectPath": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Model\\Nishaan.Gym.Model.csproj"
+              },
+              "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.ViewModel\\Nishaan.Gym.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.ViewModel\\Nishaan.Gym.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Model\\Nishaan.Gym.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Model\\Nishaan.Gym.Model.csproj",
+        "projectName": "Nishaan.Gym.Model",
+        "projectPath": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Model\\Nishaan.Gym.Model.csproj",
+        "packagesPath": "C:\\Users\\gurpreet.deol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gurpreet.deol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.ViewModel\\Nishaan.Gym.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.ViewModel\\Nishaan.Gym.ViewModel.csproj",
+        "projectName": "Nishaan.Gym.ViewModel",
+        "projectPath": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.ViewModel\\Nishaan.Gym.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\gurpreet.deol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gurpreet.deol\\source\\repos\\ng-source\\gym-angular-aspnetcore\\Nishaan.Gym\\Nishaan.Gym.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gurpreet.deol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
