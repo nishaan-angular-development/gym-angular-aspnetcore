@@ -47,10 +47,7 @@ namespace Nishaan.Gym
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
-
-
-
-            
+                        
             #region MyRegion
             var connection = Configuration.GetConnectionString("DatabaseConnection");
             services.AddDbContext<DatabaseContext>(options => options.UseSqlServer(connection, b => b.UseRowNumberForPaging()));
@@ -79,7 +76,6 @@ namespace Nishaan.Gym
                     };
                 });
 
-
             services.AddSingleton<IConfiguration>(Configuration);
             services.AddTransient<ISchemeMaster, SchemeMasterConcrete>();
             services.AddTransient<IPlanMaster, PlanMasterConcrete>();
@@ -101,18 +97,12 @@ namespace Nishaan.Gym
             #endregion
 
             // Start Registering and Initializing AutoMapper
-
            Mapper.Initialize(cfg => cfg.AddProfile<MappingProfile>());
            services.AddAutoMapper();
 
             // End Registering and Initializing AutoMapper
-
-
-
-            //services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-
             services.AddMvc(options => { options.Filters.Add(typeof(CustomExceptionFilterAttribute)); })
-            .SetCompatibilityVersion(CompatibilityVersion.Version_2_1)
+            .SetCompatibilityVersion(CompatibilityVersion.Version_2_2)
             .AddJsonOptions(options =>
             {
                 options.SerializerSettings.ContractResolver = new Newtonsoft.Json.Serialization.DefaultContractResolver();
@@ -127,14 +117,13 @@ namespace Nishaan.Gym
                         .WithExposedHeaders("X-Pagination"));
             });
 
-            services.AddSwaggerGen();
             //services.AddSwaggerDocumentation();
             #region OLD Working code for swagger configuration
             //// Register the Swagger generator, defining 1 or more Swagger documents
-            //services.AddSwaggerGen(c =>
-            //{
-            //    c.SwaggerDoc("v1", new Info { Title = "Nishaan.Gym API", Version = "v1" });
-            //}); 
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Info { Title = "API", Version = "v1" });
+            });
             #endregion
         }
 
@@ -146,7 +135,7 @@ namespace Nishaan.Gym
                 app.UseDeveloperExceptionPage();
                 //Configure Swagger only for development purose not for production app.
                 //app.UseSwaggerDocumentation();
-                app.UseSwagger();
+                //app.UseSwaggerUI();
             }
             else
             {
@@ -165,19 +154,18 @@ namespace Nishaan.Gym
             #region OLD Working code for Swagger Configuration
 
             //// Enable middleware to serve generated Swagger as a JSON endpoint.
-            //app.UseSwagger();
+            app.UseSwagger();
 
             //// Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), 
             //// specifying the Swagger JSON endpoint.
-            //app.UseSwaggerUI(c =>
-            //{
-            //    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Nishaan.Gym API V1");
-            //    //Reference document: https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=visual-studio
-            //    //To serve the Swagger UI at the app's root (http://localhost:<port>/), set the RoutePrefix property to an empty string:
-            //    c.RoutePrefix = string.Empty;
-            //}); 
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "API V1");
+                //Reference document: https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.2&tabs=visual-studio
+                //To serve the Swagger UI at the app's root (http://localhost:<port>/), set the RoutePrefix property to an empty string:
+                c.RoutePrefix = string.Empty;
+            });
             #endregion
-
 
             app.UseMvc(routes =>
             {
